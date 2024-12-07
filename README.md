@@ -28,7 +28,6 @@ This section describes the post-installation configuration of the osTicket ticke
 - **Role Created**:  
   - **Name**: Supreme Admin
 
-![Configure Roles](screenshots/configure-roles.png)
 
 ---
 
@@ -38,7 +37,6 @@ This section describes the post-installation configuration of the osTicket ticke
 - **Departments Created**:  
   - SysAdmins (manages ticket visibility for system administrators)
 
-![Configure Departments](screenshots/configure-departments.png)
 
 ---
 
@@ -48,7 +46,6 @@ This section describes the post-installation configuration of the osTicket ticke
 - **Team Created**:  
   - Online Banking (includes agents from multiple departments)
 
-![Configure Teams](screenshots/configure-teams.png)
 
 ---
 
@@ -59,7 +56,6 @@ This section describes the post-installation configuration of the osTicket ticke
   - **Unchecked**: "Unregistered users can create tickets"
   - **Checked**: "Require registration and login to create tickets"
 
-![Ticket Creation Settings](screenshots/ticket-creation-settings.png)
 
 ---
 
@@ -70,7 +66,6 @@ This section describes the post-installation configuration of the osTicket ticke
   - **Jane**: Assigned to **SysAdmins** department  
   - **John**: Assigned to **Support** department  
 
-![Configure Agents](screenshots/configure-agents.png)
 
 ---
 
@@ -81,7 +76,6 @@ This section describes the post-installation configuration of the osTicket ticke
   - **Karen**  
   - **Ken**
 
-![Configure Users](screenshots/configure-users.png)
 
 ---
 
@@ -93,7 +87,6 @@ This section describes the post-installation configuration of the osTicket ticke
   2. **Sev-B**: 4-hour grace period, 24/7 schedule  
   3. **Sev-C**: 8-hour grace period, business hours schedule  
 
-![Configure SLA](screenshots/configure-sla.png)
 
 ---
 
@@ -107,7 +100,7 @@ This section describes the post-installation configuration of the osTicket ticke
   - Password Reset  
   - Other  
 
-![Configure Help Topics](screenshots/configure-help-topics.png)
+
 
 ---
 
@@ -115,4 +108,4 @@ This section describes the post-installation configuration of the osTicket ticke
 The post-installation configuration ensures that osTicket is set up for efficient use. Roles, departments, and teams allow for proper agent organization, while SLA policies and help topics ensure a streamlined ticket resolution process.
 
 ---
-**Note**: Replace `screenshots/configure-roles.png`, etc., with the actual paths to your screenshots.
+
